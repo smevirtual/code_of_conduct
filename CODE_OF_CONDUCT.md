@@ -4,7 +4,7 @@
 
 As leaders of the SME Virtual Network, we pledge to respect everyone who contributes by providing feedback, helping others, posting issues, updating documentation, submitting pull requests and any other activities.
 
-Communication through any of SME Virtual Networks's channels (Facebook, LinkedIn, YouTube, GitHub, Slack, etc.) must be constructive and never resort to personal attacks, trolling, public or private harassment, insults or other unprofessional conduct.
+Communication through any of SME Virtual Networks' channels (Facebook, LinkedIn, YouTube, GitHub, Slack, etc.) must be constructive and never resort to personal attacks, trolling, public or private harassment, insults or other unprofessional conduct.
 
 We promise to extend courtesy and respect to everyone involved in this community regardless of gender, gender identity, sexual orientation, disability, age, race, ethnicity, religion or level of experience. We expect anyone participating in this community to do the same.
 
