@@ -11,22 +11,22 @@ us create a safe and positive community experience for all.
 These guidelines aim to support a community where all people should feel safe to
 participate, introduce new ideas and inspire others, regardless of:
 
-* Background
-* Family status
-* Gender
-* Gender identity or expression
-* Marital status
-* Sex
-* Sexual orientation
-* Native language
-* Age
-* Ability
-* Race and/or ethnicity
-* National origin
-* Socioeconomic status
-* Religion
-* Geographic location
-* Any other dimension of diversity
+- Background
+- Family status
+- Gender
+- Gender identity or expression
+- Marital status
+- Sex
+- Sexual orientation
+- Native language
+- Age
+- Ability
+- Race and/or ethnicity
+- National origin
+- Socioeconomic status
+- Religion
+- Geographic location
+- Any other dimension of diversity
 
 Openness, collaboration and participation are core aspects of our work — from
 development of open-source software to conversing on our chat teams or forums
@@ -40,14 +40,14 @@ advantage. This document outlines both expected and prohibited behavior.
 These guidelines outline our behavior expectations as contributors and
 participants of the SME Virtual Network community in all SME Virtual Network
 activities, both offline and online. Your participation is contingent upon
-following these guidelines in all SME Virutal Network activities and forums,
+following these guidelines in all SME Virtual Network activities and forums,
 including but not limited to:
 
-* Working with SME Virtual Network contributors and participants virtually or co-located.
-* Representing the SME Virtual Network at public (physical or virtual) events.
-* Representing the SME Virtual Network in social media (official accounts, staff accounts, personal accounts, Facebook pages).
-* Participating in SME Virtual Network webinars, workshops, walkthroughs, virtual office hours and virtual panel discussions (including "Ask Me Anything").
-* Participating in SME Virtual Network-related forums, mailing lists, wikis, websites, chat channels, bugs, group or person-to-person meetings, and SME Virtual Network-related correspondence.
+- Working with SME Virtual Network contributors and participants virtually or co-located.
+- Representing the SME Virtual Network at public (physical or virtual) events.
+- Representing the SME Virtual Network in social media (official accounts, staff accounts, personal accounts, Facebook pages).
+- Participating in SME Virtual Network webinars, workshops, walkthroughs, virtual office hours and virtual panel discussions (including "Ask Me Anything").
+- Participating in SME Virtual Network-related forums, mailing lists, wikis, websites, chat channels, bugs, group or person-to-person meetings, and SME Virtual Network-related correspondence.
 
 ## Behavior That Will Not Be Tolerated
 
@@ -73,22 +73,22 @@ on the issue at hand.
 
 Hurtful or harmful language related to:
 
-* Background
-* Family status
-* Gender
-* Gender identity or expression
-* Marital status
-* Sex
-* Sexual orientation
-* Native language
-* Age
-* Ability
-* Race and/or ethnicity
-* National origin
-* Socioeconomic status
-* Religion
-* Geographic location
-* Other attributes
+- Background
+- Family status
+- Gender
+- Gender identity or expression
+- Marital status
+- Sex
+- Sexual orientation
+- Native language
+- Age
+- Ability
+- Race and/or ethnicity
+- National origin
+- Socioeconomic status
+- Religion
+- Geographic location
+- Other attributes
 
 is not acceptable. This includes deliberately referring to someone by a gender
 that they do not identify with, and/or questioning the legitimacy of an
@@ -113,10 +113,10 @@ or distribution of sexualized images or text.
 Sustained disruption of events, forums, or meetings, including talks and
 presentations, will not be tolerated. This includes:
 
-* ‘Talking over’ or ‘heckling’ speakers.
-* Drinking alcohol to excess or using recreational drugs to excess, or pushing others to do so.
-* Making derogatory comments about those who abstain from alcohol or other substances, pushing people to drink, talking about their abstinence or preferences to others, or pressuring them to drink - physically or through jeering.
-* Otherwise influencing crowd actions that cause hostility in the session.
+- ‘Talking over’ or ‘heckling’ speakers.
+- Drinking alcohol to excess or using recreational drugs to excess, or pushing others to do so.
+- Making derogatory comments about those who abstain from alcohol or other substances, pushing people to drink, talking about their abstinence or preferences to others, or pressuring them to drink - physically or through jeering.
+- Otherwise influencing crowd actions that cause hostility in the session.
 
 ### Influencing Unacceptable Behavior
 
